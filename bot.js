@@ -4,7 +4,7 @@ const client = new Discord.Client();
 client.on("ready", () => {
   console.log("Connected!"); 
 });
-client.login('INSERT-DISCORD-CLIENT-TOKEN-HERE'); //Add your discord token here
+client.login('INSERT-DISCORD-CLIENT-TOKEN-HERE'); //Add your discord token here in single quotes
 
 //Function that adds a random delay in addition to the already specified minimum delay. Change below
 function randonum(min, max) {  
