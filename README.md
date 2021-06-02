@@ -1,5 +1,5 @@
-# Discord-Selfbot
-Discord Bot to send any text at prewritten intervals
+# Timed-Discord-Selfbot
+Discord SelfBot to send any text at prewritten intervals
 
 # WARNING
 This is AGAINST the Discord Terms of Service. Use of this project is not recommended as you might be banned from discord for using it. YOU HAVE BEEN WARNED, I WILL ACCEPT NO LIABILITY FOR ANY DISCORD BANS.
